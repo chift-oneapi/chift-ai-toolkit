@@ -1,7 +1,10 @@
 [project]
 name = "chift-ai-toolkit"
 version = "0.1.0"
-description = "Add your description here"
+description = "Chift OpenAPI AI Client"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "loguru>=0.7.3",
+    "mcp>=1.4.1",
+]
