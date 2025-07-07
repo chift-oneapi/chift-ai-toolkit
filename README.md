@@ -1,6 +1,6 @@
 # chift-ai-toolkit
 
-chift-ai-toolkit is an MCP Server with a set of Chift SDK methods for interacting with the Chift API.
+chift-ai-toolkit provides examples of how to use Chift MCP server.
 
 ## Table of Contents
 - [Introduction](#introduction)
